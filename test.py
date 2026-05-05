@@ -1,1 +1,1 @@
-print("this is coed of git23")
+print("this is coed of git")
