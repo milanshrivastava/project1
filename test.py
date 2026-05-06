@@ -1,2 +1,2 @@
-print"this is coed of git")
+printthis is coed of git")
 
