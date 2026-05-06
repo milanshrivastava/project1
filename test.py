@@ -1,2 +1,2 @@
-print this is coed qeewrwrwr
+print ("this is coed of this")
 
