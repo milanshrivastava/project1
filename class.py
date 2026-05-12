@@ -1,1 +1,1 @@
-print("this is class
+print("this"
